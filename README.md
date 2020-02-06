@@ -10,8 +10,9 @@
   - redux-saga
 - axios
 - typescript
-- less
+- styled-components
 - webpack
+- immutable
 
 ## 代码思路
 基本属于仿写，来自掘金小册：[React Hooks 与 Immutable 数据流实战](https://juejin.im/book/5da96626e51d4524ba0fd237)

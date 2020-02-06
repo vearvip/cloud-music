@@ -7,7 +7,7 @@
   - react-router
   - redux
   - react-redux
-  - redux-saga
+  - redux-thunk
 - axios
 - typescript
 - styled-components

@@ -1,5 +1,4 @@
 import React, { memo } from 'react'
-import styled from 'styled-components'
 import { GlobalStyle } from './style';
 import { IconStyle } from './assets/iconfont/iconfont';
 import routes from './routes';

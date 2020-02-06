@@ -14,3 +14,9 @@ const store = createStore (reducer, composeEnhancers (
 ));
 
 export default store;
+
+
+export interface actionInterface {
+  type: string
+  data: any
+}

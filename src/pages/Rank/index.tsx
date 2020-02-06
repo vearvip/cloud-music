@@ -1,8 +1,13 @@
 import React, {memo} from 'react';
+import { getBannerRequest } from '../../api';
 
 function Rank () {
   return (
-    <div>Rank</div>
+    <div>
+      <button onClick={() => {
+        getBannerRequest()
+      }}>点我</button>
+    </div>
   )
 }
 

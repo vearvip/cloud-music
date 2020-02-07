@@ -8,6 +8,7 @@ export const ListWrapper = styled.div`
     padding-left: 6px;
     font-size: 14px;
     line-height: 60px;
+    z-index: 10;
   }
 `;
 export const List = styled.div`

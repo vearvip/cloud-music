@@ -34,7 +34,7 @@ function Slider(props: SliderProps) {
         <div className="swiper-wrapper">
           {
             bannerList.map((slider, index) => {
-              console.log('🦕', index)
+              // console.log('🦕', index)
               return (
                 <div className="swiper-slide" key={'slider.imageUrl' + index }>
                   <div className="slider-nav">

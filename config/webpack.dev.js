@@ -4,7 +4,7 @@ const config = require('./webpack.config')
 module.exports = smart(config, {
   mode: 'development',
   devServer: {
-    port: 3000,
+    port: 8080,
     open: true,
     progress: true
   },
